@@ -1,0 +1,15 @@
+a. The development team is accountable for the implementation and integration of software or systems. 
+
+b. SLAs, OLAs, and KPIs requirements are defined by the Service Manager. 
+
+c. Quality policy established and deployed by the Quality Assurance Manager. 
+
+d. The ICT Trainers perform effective training in the classroom, online, or informally. 
+
+e. Risks, threats, and consequences are evaluated by the ICT Security Specialist. 
+
+f. The ICT Security Manager mission is to define and implement procedures linked to IS security. 
+
+g. Staff coordinator and manager is the ICT Operations Manager. 
+
+h. The Test Specialist’s main task is to develop tools to increase test effectiveness. 

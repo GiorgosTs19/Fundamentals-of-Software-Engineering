@@ -1,4 +1,4 @@
-a. The development team is accountable for the implementation and integration of software or systems. 
+a. The Developer is accountable for the implementation and integration of software or systems. 
 
 b. SLAs, OLAs, and KPIs requirements are defined by the Service Manager. 
 
